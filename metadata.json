@@ -1,0 +1,5 @@
+{
+  "name": "Sentiment Analysis",
+  "description": "An employee well-being tracker with sentiment analysis dashboards and admin controls.",
+  "requestFramePermissions": []
+}
